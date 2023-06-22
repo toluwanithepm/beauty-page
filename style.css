@@ -55,8 +55,19 @@ nav ul li a{
     font-weight: 5px;
     cursor: pointer;
 }
-
-.btn img{
+.btn1{
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    background: #f5168d;
+    color: #fff;
+    font-weight: 5px;
+    cursor: pointer;
+}
+.btn1 img{
     width: 25px;
     margin-right: 10px;
 }
