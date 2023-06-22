@@ -58,7 +58,7 @@ nav ul li a{
 .btn1{
     display: flex;
     align-items: center;
-    padding: 20px 10px;
+    padding: 15px 20px;
     border: 0;
     outline: 0;
     border-radius: 5px;
@@ -69,7 +69,8 @@ nav ul li a{
 }
 .btn1 img{
     width: 25px;
-    margin-right: 10px;
+    margin-right: 15px;
+    /* color: #fff; */
 }
 
 .content {
